@@ -1,0 +1,6 @@
+es\davidrico\springboot\models\dao\IClienteDao.class
+es\davidrico\springboot\models\entity\Cliente.class
+es\davidrico\springboot\controllers\ClienteController.class
+es\davidrico\springboot\models\service\IClienteService.class
+es\davidrico\springboot\Application.class
+es\davidrico\springboot\models\service\ClienteServiceImpl.class
